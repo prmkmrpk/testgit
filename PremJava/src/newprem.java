@@ -16,8 +16,8 @@ public class newprem {
 		System.out.println(sb.reverse());
 		System.out.println(sb.lastIndexOf("Java", 0));
 		String s1="prem";
-//		String s2=s1.concat("Kumar");
-//		System.out.println(s2);
+ 		String s2=s1.concat("Kumar");
+	System.out.println(s2);
 	}
 
 }
